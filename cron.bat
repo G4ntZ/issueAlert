@@ -1,0 +1,1 @@
+"C:\Users\gerso\AppData\Local\Programs\Python\Python38\python.exe" "C:\python\pluginbot\Plugin.py"
